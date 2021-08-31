@@ -8,4 +8,5 @@ def test_fib() -> None:
     assert fib(3) == 2
     assert fib(4) == 3
     assert fib(5) == 5
+    assert fib(6) == 8
     assert fib(10) == 55
