@@ -6,4 +6,5 @@ def fib(n: int) -> int:
 
 
 def foo(x):
+    fib(12.55)
     print(x)
